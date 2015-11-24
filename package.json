@@ -2,7 +2,7 @@
   "name": "deepkeys",
   "version": "1.0.0",
   "description": "A module to get all the keys in a deep object",
-  "main": "deep-keys.es5.js",
+  "main": "deepkeys.es5.js",
   "scripts": {
     "test": "mocha --compilers js:babel-core/register test.js",
     "test-watch": "mocha --compilers js:babel-core/register test.js --watch",
