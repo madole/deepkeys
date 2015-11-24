@@ -1,5 +1,5 @@
 import { expect, assert } from 'chai';
-import deepKeys from './deep-keys';
+import deepKeys from './deepkeys';
 
 describe('deep keys', function() {
   it('should return all the keys on the Object', function() {
